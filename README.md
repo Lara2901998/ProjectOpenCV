@@ -35,7 +35,6 @@ https://github.com/Lara2901998/ProjectOpenCV/blob/main/Original%20Chessboard%20I
 https://github.com/Lara2901998/ProjectOpenCV/blob/main/Undistorted%20Chessboard%20Image.PNG?raw=true
 
 Here is the original image with corrected distortion after applying camera calibration:
-
 https://github.com/Lara2901998/ProjectOpenCV/blob/main/Original%20Image.PNG?raw=true
 https://github.com/Lara2901998/ProjectOpenCV/blob/main/Undistored%20Image.PNG?raw=true
 
