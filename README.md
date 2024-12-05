@@ -53,6 +53,7 @@ mask = cv2.bitwise_or(yellow_mask, white_mask)
 edges = cv2.Canny(cv2.GaussianBlur(mask, (5, 5), 0), 50, 150)
 
 Here is an example of the result of the binary image:
+
 https://github.com/Lara2901998/ProjectOpenCV/blob/main/Binary%20Image.PNG?raw=true
 
 
