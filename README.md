@@ -33,7 +33,9 @@ Camera Calibration
 To calculate the camera matrix and distortion coefficients, I used a set of chessboard images. I applied the function cv2.findChessboardCorners() to detect the chessboard corners, which were then used to estimate the camera calibration matrix (mtx) and distortion coefficients (dist) using the function cv2.calibrateCamera(). The calibration process is essential for correcting image distortion caused by the camera lens. Below is an example of an image with corrected distortion:
 https://github.com/Lara2901998/ProjectOpenCV/blob/main/Original%20Chessboard%20Image.PNG?raw=true
 https://github.com/Lara2901998/ProjectOpenCV/blob/main/Undistorted%20Chessboard%20Image.PNG?raw=true
+
 Here is the original image with corrected distortion after applying camera calibration:
+
 https://github.com/Lara2901998/ProjectOpenCV/blob/main/Original%20Image.PNG?raw=true
 https://github.com/Lara2901998/ProjectOpenCV/blob/main/Undistored%20Image.PNG?raw=true
 
